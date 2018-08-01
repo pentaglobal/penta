@@ -4,7 +4,7 @@ about: please note that this is an issue tracker reserved for bug reports.
 
 ---
 
-For general questions please use the gitter channel or the Penta stack exchange at https://pentaglobal.stackexchange.com.
+For general questions please use the gitter channel or the Penta slack at https://penta-global.slack.com.
 
 #### System information
 
