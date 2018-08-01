@@ -1,13 +1,14 @@
 <h1 align="center"> Official Go implementation of the Penta Chain protocol.  </h1> <br>
 <p align="center">
   <a href="https://penta.global/">
-    <img alt="Penta Global" title="Penta Documentation" src="assets/svg/logo-3x.svg">
+    <img alt="Penta Global" title="Penta" src="assets/svg/logo-3x.svg">
   </a>
 </p>
 
 <h2 align="center">
   The Universal Blockchain Connector
 </h2>
+
 ## Contribution
 
 Thank you for considering to help out with the source code! We welcome contributions from
